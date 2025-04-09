@@ -1,71 +1,45 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2580
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+## UCLA MFE Math Bootcamp
 
-\f0\fs24 \cf0 \
-\{\\Large \\textsc\{UCLA MFE Math Bootcamp\}\}\
-\\end\{center\}\
-\\begin\{center\}\
-Summer 2025\
-\\end\{center\}\
-%\\date\{September 26, 2014\}\
-\
-\\begin\{center\}\
-\\rule\{6in\}\{0.4pt\}\
-\\begin\{minipage\}[t]\{0.85\\textwidth\}\
-\\begin\{tabular\}\{llcccll\}\
-\\textbf\{Instructor:\} & Charles Rambo & & &  & \\textbf\{Time:\} & TThu 5:30 -- 7:00 PDT \\\\\
-\\textbf\{Email:\} &  \\href\{mailto:charles.tutoring@gmail.com\}\{charles.tutoring@gmail.com\} & & & & \\textbf\{Zoom Link:\} & \\small ???\
-\\end\{tabular\}\
-\\end\{minipage\}\
-\\rule\{6in\}\{0.4pt\}\
-\\end\{center\}\
-\\vspace\{.5cm\}\
-\\setlength\{\\unitlength\}\{1in\}\
-\\renewcommand\{\\arraystretch\}\{2\}\
-\
-\
-\\noindent\\textbf\{Objective:\}  This course is  designed to prepare incoming MFE students for the UCLA MFE program. It will be taught at an upper-division undergraduate level.\
-\\vskip.15in\
-\
-\\noindent\\textbf\{Course Material:\} Slides, homework assignments, and code snippets can be found on my personal GitHub:\
-\\begin\{quote\}\
-\\small \\url\{https://github.com/charlesrambo/math_bootcamp_25\}\
-\\end\{quote\}\
-\
-\\noindent\\textbf\{References:\} %\\footnotemark\
-This is an incomplete list of references used to create the notes for this course. You do not need to purchase any of the books listed.  \
-\\begin\{itemize\}\
-\\item James Stewart, \{\\textit\{Calculus\}\}, Brooke/Cole, 3rd ed., 1995.\
-\\item Walter Rudin, \{\\textit\{Principles of Mathematical Analysis\}\}, McGraw-Hill, 1976.\
-\\item Charles Pugh, \{\\textit\{Real Mathematical Analysis\}\}, Springer, 2002\
-\\item Serge Lang, \{\\textit\{Linear Algebra\}\}, Springer, 3rd ed., 1987.\
-\\item Steven Roman, \{\\textit\{Advanced Linear Algebra\}\}, Springer, 2nd ed., 2005.\
-\\item Morris DeGroot and Mark Schervish, \{\\textit\{Probability and Statistics\}\}, Pearson, 4th ed., 2013.\
-\\item Marcos Lopez de Prado, \{\\textit\{Machine Learning for Asset Managers\}\}, Cambridge University Press, 2020.\
-\\item  Martin Haugh,  \{\\textit\{A Brief Introduction to Stochastic Calculus\}\}, Access date June 2024, $\\langle$\\url\{https://www.columbia.edu/~mh2078/FoundationsFE/IntroStochCalc.pdf\}$\\rangle$, Columbia University, 2016. \
-\\end\{itemize\} \
-\
-\
-\\vspace*\{.15in\}\
-\
-\\noindent \\textbf\{Tentative Course Outline:\}\
-\\begin\{center\}\
-\
-\\begin\{tabular\}\{| l | c | c| \}\
-\\hline\
-\{\\bf Unit\}	&	\{\\bf Description\}						&	\{\\bf Sessions\}\\\\\\hline\
-1		& 	Calculus							&	July 9-18\\\\\
-2		&	 Linear algebra and multivariable calculus		&	July 23-August 1\\\\\
-3		&	Combinatorics, probability, and statistics		&	August 6-15\\\\\
-4		&	Covariance matrices, PCA, and stochastic calculus&	 August 20-22\\\\\\hline\
-\\end\{tabular\}\
-\\end\{center\}\
-\
-\\vspace*\{.15in\}\
-\\noindent\\textbf\{Assignments and Grading Policy:\} \
-There will be three homework assignments each worth 33\\% of your grade. You must receive an average score of at least 65\\% on the assignments to pass. One additional make-up assignment will be available for students that missed one or whose overall score is too low to pass. The assignments will be posted on my GitHub. Submit your solutions via email. If you choose to work in teams, only submit one assignment per team. Remember to place everyone's name on the top of the team's solutions. Groups may not contain more than four people. The course is P/NP. No letter grades will be given. \
-}
+**Summer 2025**
+
+**Instructor:** Charles Rambo  
+**Email:** [charles.tutoring@gmail.com](mailto:charles.tutoring@gmail.com)  
+**Time:** TThu 5:30 -- 7:00 PDT  
+
+**Objective:** This course is designed to prepare incoming MFE students for the UCLA MFE program. It will be taught at an upper-division undergraduate level.
+
+**Course Material:** Slides, homework assignments, and code snippets can be found on the instructor's GitHub repository:
+
+* [math_bootcamp_24](https://github.com/charlesrambo/math_bootcamp_25)
+
+**Zoom:** Meetings will be via Zoom.
+
+| Meeting ID | Link |
+|---|---|
+| (numbers) | (url) |
+
+**References:**
+
+This is an incomplete list of references used to create the notes for this course. You are not required to purchase any of these books.
+
+* James Stewart, *Calculus*, Brooke/Cole, 3rd ed., 1995.
+* Walter Rudin, *Principles of Mathematical Analysis*, McGraw-Hill, 1976.
+* Charles Pugh, *Real Mathematical Analysis*, Springer, 2002.
+* Serge Lang, *Linear Algebra*, Springer, 3rd ed., 1987.
+* Steven Roman, *Advanced Linear Algebra*, Springer, 2nd ed., 2005.
+* Morris DeGroot and Mark Schervish, *Probability and Statistics*, Pearson, 4th ed., 2013.
+* Marcos Lopez de Prado, *Machine Learning for Asset Managers*, Cambridge University Press, 2020.
+* Martin Haugh, *A Brief Introduction to Stochastic Calculus*, Accessed June 2024 [https://www.math.columbia.edu/~ik/W6505.html](https://www.math.columbia.edu/~ik/W6505.html)
+
+**Tentative Course Outline:**
+
+| Unit | Description | Sessions |
+|---|---|---|
+| 1 | Calculus | July 9-18 |
+| 2 | Linear algebra and multivariable calculus | July 23-August 1 |
+| 3 | Combinatorics, probability, and statistics | August 6-15 |
+| 4 | Covariance matrices, PCA, and stochastic calculus | August 20-22 |
+
+**Assignments and Grading Policy:**
+
+There will be three homework assignments, each worth 33% of your final grade. You must receive an average score of at least 65% to pass the course. One additional make-up assignment will be available for students who missed a homework or whose overall score is too low. The assignments will be posted on the instructor's GitHub repository. Submit your solutions via email. Collaboration is allowed, but each team can only submit one solution with all team members' names listed. Teams cannot have more than four people. The course is graded Pass/Fail. No letter grades will be given.
