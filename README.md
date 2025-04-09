@@ -37,7 +37,7 @@ This is an incomplete list of references used to create the notes for this cours
 |---|---|---|
 | 1 | Calculus | July ?-?? |
 | 2 | Linear algebra and multivariable calculus | July ??-August ?? |
-| 3 | Combinatorics, probability, and statistics | August ?-?? |
+| 3 | Combinatorics, probability, and statistics | August ??-?? |
 | 4 | Covariance matrices, PCA, and stochastic calculus | August ??-?? |
 
 **Assignments and Grading Policy:**
