@@ -4,7 +4,7 @@
 
 **Instructor:** Charles Rambo  
 **Email:** [charles.tutoring@gmail.com](mailto:charles.tutoring@gmail.com)  
-**Time:** TThu 5:30 -- 7:00 PDT  
+**Time:** TBD  
 
 **Objective:** This course is designed to prepare incoming MFE students for the UCLA MFE program. It will be taught at an upper-division undergraduate level.
 
@@ -35,10 +35,10 @@ This is an incomplete list of references used to create the notes for this cours
 
 | Unit | Description | Sessions |
 |---|---|---|
-| 1 | Calculus | July 9-18 |
-| 2 | Linear algebra and multivariable calculus | July 23-August 1 |
-| 3 | Combinatorics, probability, and statistics | August 6-15 |
-| 4 | Covariance matrices, PCA, and stochastic calculus | August 20-22 |
+| 1 | Calculus | July ?-?? |
+| 2 | Linear algebra and multivariable calculus | July ??-August ?? |
+| 3 | Combinatorics, probability, and statistics | August ?-?? |
+| 4 | Covariance matrices, PCA, and stochastic calculus | August ??-?? |
 
 **Assignments and Grading Policy:**
 
