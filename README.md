@@ -10,7 +10,7 @@
 
 **Course Material:** Slides, homework assignments, and code snippets can be found on the instructor's GitHub repository:
 
-* [math_bootcamp_24](https://github.com/charlesrambo/math_bootcamp_25)
+* [math_bootcamp_25](https://github.com/charlesrambo/math_bootcamp_25)
 
 **Zoom:** Meetings will be via Zoom.
 
