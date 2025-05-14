@@ -29,17 +29,17 @@ This is an incomplete list of references used to create the notes for this cours
 * Steven Roman, *Advanced Linear Algebra*, Springer, 2nd ed., 2005.
 * Morris DeGroot and Mark Schervish, *Probability and Statistics*, Pearson, 4th ed., 2013.
 * Marcos Lopez de Prado, *Machine Learning for Asset Managers*, Cambridge University Press, 2020.
-* Martin Haugh, *A Brief Introduction to Stochastic Calculus*, Accessed June 2024 [https://www.math.columbia.edu/~ik/W6505.html](https://www.math.columbia.edu/~ik/W6505.html)
+* Martin Haugh, *A Brief Introduction to Stochastic Calculus*, [https://www.math.columbia.edu/~ik/W6505.html](https://www.math.columbia.edu/~ik/W6505.html)
 
 **Tentative Course Outline:**
 
 | Unit | Description | Sessions |
 |---|---|---|
-| 1 | Calculus | July ?-?? |
-| 2 | Linear algebra and multivariable calculus | July ??-August ?? |
-| 3 | Combinatorics, probability, and statistics | August ??-?? |
-| 4 | Covariance matrices, PCA, and stochastic calculus | August ??-?? |
+| 1 | Calculus | July 1-15 |
+| 2 | Linear algebra and multivariable calculus | July 17-24 |
+| 3 | Combinatorics, probability, and statistics | July 29-August 7 |
+| 4 | Covariance matrices, PCA, and stochastic calculus | August 12-14 |
 
 **Assignments and Grading Policy:**
 
-There will be three homework assignments, each worth 33% of your final grade. You must receive an average score of at least 65% to pass the course. One additional make-up assignment will be available for students who missed a homework or whose overall score is too low. The assignments will be posted on the instructor's GitHub repository. Submit your solutions via email. Collaboration is allowed, but each team can only submit one solution with all team members' names listed. Teams cannot have more than four people. The course is graded Pass/Fail. No letter grades will be given.
+There will be three homework assignments, each worth 33% of your grade. You must receive an average score of at least 65% on the assignments to pass. One additional make-up assignment will be available for students who missed one or whose overall score is too low to pass. The assignments will be posted on my GitHub. Submit your solutions via email. If you choose to work in teams, only submit one assignment per team. Remember to place everyone's name at the top of the team's solutions. Groups may not contain more than four people. The course is P/NP. No letter grades will be given. 
