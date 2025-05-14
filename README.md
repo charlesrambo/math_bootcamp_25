@@ -4,7 +4,7 @@
 
 **Instructor:** Charles Rambo  
 **Email:** [charles.tutoring@gmail.com](mailto:charles.tutoring@gmail.com)  
-**Time:** TBD  
+**Time:** TTh 5:30-7 PDT  
 
 **Objective:** This course is designed to prepare incoming MFE students for the UCLA MFE program. It will be taught at an upper-division undergraduate level.
 
