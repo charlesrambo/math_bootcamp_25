@@ -8,15 +8,9 @@
 
 **Objective:** This course is designed to prepare incoming MFE students for the UCLA MFE program. It will be taught at an upper-division undergraduate level.
 
-**Course Material:** Slides, homework assignments, and code snippets can be found on the instructor's GitHub repository:
+**Course Material:** Videos, slides, homework assignments, and code snippets can be found on BruinLearn. Also see instructor's GitHub repository:
 
 * [math_bootcamp_25](https://github.com/charlesrambo/math_bootcamp_25)
-
-**Zoom:** Meetings will be via Zoom.
-
-| Meeting ID | Link |
-|---|---|
-| (numbers) | (url) |
 
 **References:**
 
@@ -42,4 +36,4 @@ This is an incomplete list of references used to create the notes for this cours
 
 **Assignments and Grading Policy:**
 
-There will be three homework assignments, each worth 33% of your grade. You must receive an average score of at least 65% on the assignments to pass. One additional make-up assignment will be available for students who missed one or whose overall score is too low to pass. The assignments will be posted on my GitHub. Submit your solutions via email. If you choose to work in teams, only submit one assignment per team. Remember to place everyone's name at the top of the team's solutions. Groups may not contain more than four people. The course is P/NP. No letter grades will be given. 
+There will be three homework assignments, each worth 33\% of your grade. You must receive an average score of at least 65\% on the assignments to pass. One additional make-up assignment will be available for students who missed one or whose overall score is too low to pass. The assignments will be posted on BruinLearn, where you can also upload your solutions. If you choose to work in teams, only upload one assignment per team. Remember to place everyone's name at the top of the team's solutions. Groups may not contain more than four people. The course is P/NP. No letter grades will be given. 
